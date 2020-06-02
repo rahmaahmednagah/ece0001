@@ -1,0 +1,66 @@
+html>
+     <body bgcolor="C8BB99" >
+
+
+<body text ="4A3838 ">
+	 
+
+ok lets explain.</br>  
+databases is collecting and organizing data </br>,so that is easy to exract useful information from it .</br> databases can store information about people, products,requests, etc.</br>,and retrieve them whenever you want to analyze them and convert them
+the importance of databases:
+<ol>
+<li>storing a huge amount of data with different types (texts-numbers-dates)</li>
+<li>performing operation and processingon this data to get out with information</li>
+<li>ease of retrieving information quickly and highly efficiently </li>
+<lithe ability to amend and update this data ></li>
+<li>Achieve a high degree of security and confidentiality of the stored information and keep  It has tampering data</li>
+<li>centralizing data and limiting its frequency so that all data are dealt with</li>
+</ol>
+&nbsp; &nbsp; &nbsp; &nbsp; *tybes of data you can put in databases:
+<ol>
+<li>text </li>
+<li> number </li>
+<li> date/time</li>
+<li>currency </li>
+</ol>
+
+<span style="font-size:25;"> *Database managment system:</span> </br></br></br>
+
+ 
+ Database managment system it's An integrated set of programs that take over the management of the database and control the activities of accessing it and also maintaining it
+</br>
+ok lets review the most important processes that take place within DBMS:
+<ol>
+<li>forms</li> 
+<li>query</li>  
+<li>report</li> 
+</ol>
+first forms :form is It is a user interface with the database and is the intermediary between the user,</br> tables, queries, and reports  Scare makes it easy to handle data in an organized manner.
+
+
+ </br> </br>second query: It is a process that takes place on databases in order to retrieve information from them.</br>  A query may collect data from multiple tables so that this collected data acts as a data source for forms or reports.
+
+ </br>and there are four kind queries you can do on database:
+ 
+
+<ol>
+<li>creat query</li> 
+<li>select query</li>  
+<li>delete query</li> <li>update query</li>
+</ol>
+</br> </br>third report : It is a document that can be printed, displayed on the screen, or saved from the report. Data in the database or part of it that the report placed. Printing data on the printer. </br> There are several forms of data display in the report:</br><ol><li> A report that displays all the content of the database without defying it.</li><li>  A report displays specific data according to a field they are selected </li><li> A report that performs calculations taking advantage of existing information</li>
+ 
+
+
+
+
+
+
+
+
+
+<a href="the project.html"> <span style="font-size:75;"></br></br></br></br><center>back</span></center></a>
+
+	 
+</body>	 
+</html>
